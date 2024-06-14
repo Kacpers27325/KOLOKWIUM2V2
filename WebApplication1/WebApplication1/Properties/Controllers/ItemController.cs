@@ -25,17 +25,17 @@ public class ItemController : ControllerBase
 
         if (res.ErrorCode == -1)
         {
-            return NotFound("Character does not exist!");
+            return NotFound("Bohater nie istnieje");
         }
 
         if (res.ErrorCode == -2)
         {
-            return NotFound("Provided items do not exist!");
+            return NotFound("Przedmioty nie istnieją");
         }
 
         if (res.ErrorCode == -3)
         {
-            return NotFound("Character cannot lift more!");
+            return NotFound("Bohater nie ma wystarczającej siły, musi iść na siłownię");
         }
 
         return Ok(res);
