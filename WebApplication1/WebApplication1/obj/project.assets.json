@@ -5175,11 +5175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s27325\\Desktop\\Foldertestowy\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\s27325\\Desktop\\TEST OSTATECZNY\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\s27325\\Desktop\\Foldertestowy\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\s27325\\Desktop\\TEST OSTATECZNY\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\s27325\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s27325\\Desktop\\Foldertestowy\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\s27325\\Desktop\\TEST OSTATECZNY\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s27325\\AppData\\Roaming\\NuGet\\NuGet.Config",

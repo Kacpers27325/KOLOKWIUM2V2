@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zAkxaw3y0u41+JqtuBt0uhMLpdI6ts6IfaBLPrHEBhjvV19pq9oOBcpBoLf6rUxPBaIZf8buhQ4roAGE+Y/kNA==",
+  "dgSpecHash": "zdqupqUl2AM8K0tD4I2gwJ2alw10XCfttZBI+xoju1wsxo2+usV2iCT0WVg5ock575B0v0pGY1mnMe9NOLuGTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s27325\\Desktop\\Foldertestowy\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\s27325\\Desktop\\TEST OSTATECZNY\\KOLOKWIUM2V2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s27325\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\s27325\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
