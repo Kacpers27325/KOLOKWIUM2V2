@@ -98,18 +98,6 @@ public class DbService : IDbService
 
         await _context.SaveChangesAsync(cancellationToken);
 
-        /*var transaction = await _context.Database.BeginTransactionAsync(cancellationToken);
-
-        try
-        {
-            await transaction.CommitAsync(cancellationToken);
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine(e);
-            await transaction.RollbackAsync(cancellationToken);
-        }*/
-
         var characterBackpackItems = new CharacterBackpackItems();
 
         var characterBackpacks = await _context
