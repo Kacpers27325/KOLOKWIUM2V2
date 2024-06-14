@@ -19,7 +19,7 @@ public class DbService : IDbService
     {
         if (await DoesCharacterExist(characterId, cancellationToken) == false)
         {
-            return new CharactersDto { maxWeight = -1 };
+            return new CharactersDto { currentWeight = -1 };
         }
 
         var charactersDto = await _context.Characters
@@ -80,7 +80,6 @@ public class DbService : IDbService
 
             if (existingBackpackItem != null)
             {
-                // Jeśli przedmiot już istnieje, zwiększ jego ilość
                 existingBackpackItem.Amount++;
             }
             else

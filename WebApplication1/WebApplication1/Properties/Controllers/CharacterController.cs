@@ -21,7 +21,7 @@ public class CharactersController : ControllerBase
 
         if (res.currentWeight == -1)
         {
-            return NotFound("There is no characters in the context!");
+            return NotFound("Nie ma takiego bohatera");
         }
 
         return Ok(res);
